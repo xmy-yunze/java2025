@@ -7,7 +7,6 @@ public class Java3 {
 //        System.out.println(array[10]);
         //无界
         List<Integer> mylist = new ArrayList<>();
-//        mylist.add(0);
         for (int i = 0; i <= 10; i++){
             mylist.add(i+1);
         }
